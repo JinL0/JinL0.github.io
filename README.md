@@ -1,7 +1,8 @@
 # Jin Liu
 ## Connections 
-Email: stu.cs.jin@berkeley.edu
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/jin-liu-a5b697140/)
+- Email: stu.cs.jin@berkeley.edu
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jin-liu-a5b697140/)
+- Personal Website [https://jinl0.github.io/](https://jinl0.github.io/)
 
 ## Experience
 
